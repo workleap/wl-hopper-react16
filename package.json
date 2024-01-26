@@ -1,0 +1,49 @@
+{
+    "name": "wl-hopper-react16",
+    "version": "0.0.0",
+    "keywords": [],
+    "author": {
+        "name": "Workleap"
+    },
+    "private": true,
+    "license": "Apache-2.0",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gsoft-inc/wl-hopper-react16.git"
+    },
+    "packageManager": "pnpm@8.6.2",
+    "scripts": {
+        "build": "pnpm -r build ",
+        "changeset": "changeset",
+        "ci-release": "pnpm build && changeset publish",
+        "generate-icons": "pnpm -r generate-icons",
+        "lint": "pnpm run \"/^lint:.*/\" && pnpm run typecheck",
+        "lint:eslint": "eslint . --max-warnings=-1 --cache --cache-location node_modules/.cache/eslint",
+        "lint:style": "stylelint \"**/*.css\" --allow-empty-input --cache --cache-location node_modules/.cache/stylelint",
+        "typecheck": "pnpm -r --parallel --include-workspace-root exec tsc --noEmit",
+        "clean": "pnpm -r --parallel --include-workspace-root exec pnpm dlx rimraf dist node_modules/.cache",
+        "reset": "pnpm clean && pnpm reset:modules",
+        "reset:modules": "pnpm -r --parallel --include-workspace-root exec pnpm dlx rimraf node_modules pnpm-lock.yaml"
+    },
+    "devDependencies": {
+        "@changesets/cli": "2.26.2",
+        "@types/jest": "29.5.9",
+        "@types/node": "20.9.3",
+        "@workleap/eslint-plugin": "3.0.0",
+        "@workleap/stylelint-configs": "2.0.0",
+        "@workleap/typescript-configs": "3.0.2",
+        "eslint-plugin-storybook": "0.6.15",
+        "prettier": "3.1.0",
+        "prop-types": "15.8.1",
+        "react-dom": "18.2.0",
+        "react": "18.2.0",
+        "stylelint": "15.11.0",
+        "ts-node": "10.9.1"
+    },
+    "bugs": {
+        "url": "https://github.com/gsoft-inc/wl-hopper/issues"
+    },
+    "readme": "https://github.com/gsoft-inc/wl-hopper#readme",
+    "homepage": "https://github.com/gsoft-inc/wl-hopper#readme"
+}
