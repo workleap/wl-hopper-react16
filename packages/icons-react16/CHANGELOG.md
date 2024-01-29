@@ -1,5 +1,17 @@
 # @hopper-ui/icons-react16
 
+## 1.2.0
+
+### Minor Changes
+
+- dd93236: **Added**
+
+  | SVG Name                 |
+  | ------------------------ |
+  | BoltIcon                 |
+  | SettingsNotificationIcon |
+  | SettingsWarningIcon      |
+
 ## 1.1.1
 
 ### Patch Changes
