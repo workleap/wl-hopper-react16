@@ -6,7 +6,8 @@
         "baseUrl": ".",
         "paths": {
             "@hopper-ui/components": ["./packages/components/src/index.ts"],
-            "@hopper-ui/styled-system": ["./packages/styled-system/src/index.ts"]
+            "@hopper-ui/styled-system": ["./packages/styled-system/src/index.ts"],
+            "@hopper-ui/tsup-css-module-plugin": ["../../tooling/tsup-css-module-plugin/index.ts"],
         }
     }
 }

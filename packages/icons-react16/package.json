@@ -40,9 +40,10 @@
         "react-dom": "^16"
     },
     "devDependencies": {
+        "@workleap/tsup-configs": "3.0.1",
         "react": "^16",
         "react-dom": "^16",
-        "@hopper-ui/svg-icons": "2.1.0",
+        "@hopper-ui/svg-icons": "2.2.0",
         "@svgr/core": "^8.1.0",
         "@svgr/plugin-jsx": "^8.1.0",
         "@svgr/plugin-svgo": "^8.1.0",
@@ -59,6 +60,8 @@
         "ts-node": "10.9.2",
         "tsup": "8.0.1",
         "tsx": "4.7.0",
-        "typescript": "5.3.3"
+        "typescript": "5.3.3",
+        "postcss": "8.4.33",
+        "postcss-modules": "6.0.0"
     }
 }
