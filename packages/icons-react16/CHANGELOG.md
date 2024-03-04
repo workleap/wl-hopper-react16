@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 1.3.0
+
+### Minor Changes
+
+- 75696bd: Updated icon to hopper icons version
+
 ## 1.2.0
 
 ### Minor Changes
