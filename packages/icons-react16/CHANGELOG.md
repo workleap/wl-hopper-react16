@@ -1,5 +1,15 @@
 # @hopper-ui/icons-react16
 
+## 1.4.0
+
+### Minor Changes
+
+- 448669d: **Added**
+
+  | Icon Name  |
+  | ---------- |
+  | FolderIcon |
+
 ## 1.3.0
 
 ### Minor Changes
