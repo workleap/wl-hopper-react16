@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 1.5.0
+
+### Minor Changes
+
+- 4be30bb: Added NextCalendarIcon
+
 ## 1.4.0
 
 ### Minor Changes
