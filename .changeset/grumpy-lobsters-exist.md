@@ -7,7 +7,6 @@ Modified the following icons:
 
 | Icon Name                 | Product    |
 | ------------------------- | ---------- |
-| NextCalendarIcon          | Workleap   |
 | AlignmentIcon             | Officevibe |
 | AmbassadorshipIcon        | Officevibe |
 | EventIcon                 | Officevibe |
