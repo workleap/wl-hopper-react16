@@ -1,5 +1,21 @@
 # @hopper-ui/icons-react16
 
+## 1.8.0
+
+### Minor Changes
+
+- 1b14b74: Added Pingboard icons
+
+  **Added**
+
+  | Icon Name            |
+  | -------------------- |
+  | EverythingReportIcon |
+  | OpenRoleIcon         |
+  | PhoneIcon            |
+  | PrintIcon            |
+  | UploadIcon           |
+
 ## 1.7.0
 
 ### Minor Changes
