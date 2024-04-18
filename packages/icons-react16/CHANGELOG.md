@@ -1,5 +1,17 @@
 # @hopper-ui/icons-react16
 
+## 1.9.0
+
+### Minor Changes
+
+- 028a20b: Changes to Icons:
+
+  **Added**
+
+  | Icon Name  |
+  | ---------- |
+  | MobileIcon |
+
 ## 1.8.0
 
 ### Minor Changes
