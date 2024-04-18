@@ -51,8 +51,8 @@ importers:
   packages/icons-react16:
     devDependencies:
       '@hopper-ui/svg-icons':
-        specifier: 2.8.0
-        version: 2.8.0
+        specifier: 2.9.0
+        version: 2.9.0
       '@svgr/core':
         specifier: ^8.1.0
         version: 8.1.0(typescript@5.3.3)
@@ -1138,8 +1138,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@hopper-ui/svg-icons@2.8.0:
-    resolution: {integrity: sha512-En/GV17MhbJ+g4CIaSq7laG084A7k42o86C1d85LCA115m9FDDXd4gbPTmT0v1zYhHV9TG8LMLoPpHA3KILrHA==}
+  /@hopper-ui/svg-icons@2.9.0:
+    resolution: {integrity: sha512-G8auwATcz+umFUcTtn5+jFl77EwjV9d3/+V8tgo1hg0D6qBIWE+31BvUnhpvycAjrk4Zs+MZdAiW2CPQAXB2Xw==}
     dev: true
 
   /@humanwhocodes/config-array@0.11.13:
