@@ -1,5 +1,24 @@
 import type { Config } from "svgo";
 
+import { changeColorPlugin } from "./changeColorPlugin.ts";
+import {
+    PrimaryIconColor,
+    WarningWeakIconColor,
+    DecorativeOption7IconColor,
+    DecorativeOption7SurfaceColor,
+    White,
+    WhiteHexadecimal
+} from "./constants.ts";
+
+export const colors: { [key: string]: string } = {
+    [PrimaryIconColor]: `var(--hop-Icon-placeholder-primary-icon, ${PrimaryIconColor})`,
+    [WarningWeakIconColor]: `var(--hop-Icon-placeholder-warning-icon-weak, ${WarningWeakIconColor})`,
+    [White]: `var(--hop-Richicon-placeholder-fill, ${WhiteHexadecimal})`,
+    [WhiteHexadecimal]: `var(--hop-Richicon-placeholder-fill, ${WhiteHexadecimal})`,
+    [DecorativeOption7IconColor]: `var(--hop-Richicon-placeholder-background, ${DecorativeOption7IconColor})`,
+    [DecorativeOption7SurfaceColor]: `var(--hop-Richicon-placeholder-shadow, ${DecorativeOption7SurfaceColor})`
+};
+
 const config : Config = {
     plugins: [
         {
@@ -10,7 +29,8 @@ const config : Config = {
                 }
             }
         },
-        "removeXMLNS"
+        "removeXMLNS",
+        changeColorPlugin
     ]
 };
 

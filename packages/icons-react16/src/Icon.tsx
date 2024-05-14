@@ -41,7 +41,7 @@ export const Icon = forwardRef<SVGSVGElement, IconProps>((props, ref) => {
 
     const As = sizeMappings[size];
     const classNames = [
-        styles["hop-icon"],
+        styles["hop-Icon"],
         className
     ].filter(x => x !== undefined).join(" ");
 

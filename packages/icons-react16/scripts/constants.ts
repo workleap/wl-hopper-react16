@@ -4,7 +4,8 @@ export const WarningWeakIconColor = "#E57723"; // --hop-warning-icon-weak
 
 export const DecorativeOption7IconColor = "#2A2620"; // --hop-decorative-option7-icon
 export const DecorativeOption7SurfaceColor = "#E5DED6"; // --hop-decorative-option7-surface
-export const White = "#fff"; // --hop-status-neutral-surface
+export const WhiteHexadecimal = "#fff";
+export const White = "white"; // TODO: should be --hop-decorative-option7-icon-strong
 
 export const ComponentDirectory = "src/generated-icon-components";
 export const SVGsDirectory = "./node_modules/@hopper-ui/svg-icons/dist/icons/";
