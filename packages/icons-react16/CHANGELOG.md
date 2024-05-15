@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 2.0.1
+
+### Patch Changes
+
+- 68e75f3: fix inversion between background and shadow values
+
 ## 2.0.0
 
 ### Major Changes
