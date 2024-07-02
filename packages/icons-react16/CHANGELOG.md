@@ -1,5 +1,31 @@
 # @hopper-ui/icons-react16
 
+## 2.1.0
+
+### Minor Changes
+
+- # 89b517e: Added Icons
+
+  ConnectionsIcon
+  GraduationHatIcon
+  ImageIcon
+  ScreenShareIcon
+
+  # Added RichIcons
+
+  AnniversaryRichIcon
+  BirthdayRichIcon
+  BrokenImageRichIcon
+  DeletedUserRichIcon
+  DepartmentRichIcon
+  DirectoryRichIcon
+  DiscountRichIcon
+  GroupRichIcon
+  LocationRichIcon
+  OpenRoleRichIcon
+  StatusRichIcon
+  WhosWhoRichIcon
+
 ## 2.0.1
 
 ### Patch Changes
