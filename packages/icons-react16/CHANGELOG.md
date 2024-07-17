@@ -1,5 +1,23 @@
 # @hopper-ui/icons-react16
 
+## 2.2.0
+
+### Minor Changes
+
+- 31dd1b5: Added Pingboard new icons
+
+  ### Minor Changes
+
+  # Added Icons
+
+  BirthdayIcon
+  BuildIcon
+
+  # Added RichIcons
+
+  ApplauseRichIcon
+  ProfileRichIcon
+
 ## 2.1.0
 
 ### Minor Changes
