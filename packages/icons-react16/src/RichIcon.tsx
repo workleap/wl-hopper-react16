@@ -2,11 +2,15 @@ import React, { forwardRef, type ElementType, type RefAttributes, type SVGProps,
 
 import styles from "./RichIcon.module.css";
 
+export type RichIconDecorativeVariant = "option1" | "option2" | "option3" | "option4" | "option5" | "option6" | "option7" | "option8";
+export type RichIconStatusVariant = "success" | "warning" | "danger" | "information" | "upsell";
+export type RichIconVariant = RichIconDecorativeVariant | RichIconStatusVariant;
+
 export interface RichIconProps extends ComponentProps<"svg"> {
     /**
      * The visual style of the icon.
      */
-    variant?: "option1" | "option2" | "option3" | "option4" | "option5" | "option6" | "option7" | "option8";
+    variant?: RichIconVariant;
     /**
     * The size of the icon.
     */
