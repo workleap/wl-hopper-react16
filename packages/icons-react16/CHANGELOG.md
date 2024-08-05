@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 2.3.0
+
+### Minor Changes
+
+- 23a6293: Added status variants to the Richicon.
+
 ## 2.2.0
 
 ### Minor Changes
