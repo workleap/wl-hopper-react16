@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 2.4.0
+
+### Minor Changes
+
+- f07ae2f: Added new icons
+
 ## 2.3.0
 
 ### Minor Changes
