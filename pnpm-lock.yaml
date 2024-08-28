@@ -51,8 +51,8 @@ importers:
   packages/icons-react16:
     devDependencies:
       '@hopper-ui/svg-icons':
-        specifier: 2.15.0
-        version: 2.15.0
+        specifier: 2.16.0
+        version: 2.16.0
       '@svgr/core':
         specifier: ^8.1.0
         version: 8.1.0(typescript@5.3.3)
@@ -668,8 +668,8 @@ packages:
     resolution: {integrity: sha512-Kn7K8dx/5U6+cT1yEhpX1w4PCSg0M+XyRILPgvwcEBjerFWCwQj5sbr3/VmxqV0JGHCBCzyd6LxypEuehypY1w==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
 
-  '@hopper-ui/svg-icons@2.15.0':
-    resolution: {integrity: sha512-71742Q76I6qfCXBYMEObmhr+yIwercuuA/SwOBmkMWyEIU+MGS0Ftmg9mQI9rHEiofHfZcR8kTpgPCPXQMMZQw==}
+  '@hopper-ui/svg-icons@2.16.0':
+    resolution: {integrity: sha512-t5RehWd9I5Vb6QVjlv9zV3mIdW9d3tdsjWMPc16j+B70nnMXYxpb3la43H5GVi2DceiKC0M4RbtRSCE6mKX9mw==}
 
   '@humanwhocodes/config-array@0.11.13':
     resolution: {integrity: sha512-JSBDMiDKSzQVngfRjOdFXgFfklaXI4K9nLF49Auh21lmBWRLIK3+xTErTWD4KU54pb6coM6ESE7Awz/FNU3zgQ==}
@@ -4848,7 +4848,7 @@ snapshots:
 
   '@eslint/js@8.53.0': {}
 
-  '@hopper-ui/svg-icons@2.15.0': {}
+  '@hopper-ui/svg-icons@2.16.0': {}
 
   '@humanwhocodes/config-array@0.11.13':
     dependencies:
