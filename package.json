@@ -10,7 +10,7 @@
     "type": "module",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/gsoft-inc/wl-hopper-react16.git"
+        "url": "git+https://github.com/workleap/wl-hopper-react16.git"
     },
     "scripts": {
         "build": "pnpm -r build ",
@@ -41,8 +41,8 @@
         "ts-node": "10.9.1"
     },
     "bugs": {
-        "url": "https://github.com/gsoft-inc/wl-hopper/issues"
+        "url": "https://github.com/workleap/wl-hopper/issues"
     },
-    "readme": "https://github.com/gsoft-inc/wl-hopper#readme",
-    "homepage": "https://github.com/gsoft-inc/wl-hopper#readme"
+    "readme": "https://github.com/workleap/wl-hopper#readme",
+    "homepage": "https://github.com/workleap/wl-hopper#readme"
 }
