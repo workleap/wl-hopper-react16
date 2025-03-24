@@ -3,7 +3,7 @@
 ### Adding a new icon
 
 1. First, follow this procedure to release the new icons in the `@hopper-ui/icons` and `@hopper-ui/svg-icons` package:
-https://github.com/gsoft-inc/wl-hopper/blob/main/CONTRIBUTING.md#adding-a-new-icon
+https://github.com/workleap/wl-hopper/blob/main/CONTRIBUTING.md#adding-a-new-icon
 
 2. Update the @hopper-ui/svg-icons dev dependency in packages\icons-react16\package.json and run `pnpm install` in the root directory.
 
@@ -29,6 +29,6 @@ pnpm changeset
 ### Updating or removing an icon
 
 - First, follow this procedure to remove or icons in the `@hopper-ui/icons` and `@hopper-ui/svg-icons` package:
-https://github.com/gsoft-inc/wl-hopper/blob/main/CONTRIBUTING.md#updating-or-removing-an-icon
+https://github.com/workleap/wl-hopper/blob/main/CONTRIBUTING.md#updating-or-removing-an-icon
 
 - Steps 2-4 are the same as adding a new icon.
