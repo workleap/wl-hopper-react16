@@ -1,5 +1,17 @@
 # @hopper-ui/icons-react16
 
+## 2.5.0
+
+### Minor Changes
+
+- ffb4933: Modified the following icons:
+
+  **Added**
+
+  | AI     |
+  | ------ |
+  | AiIcon |
+
 ## 2.4.0
 
 ### Minor Changes
