@@ -30,14 +30,14 @@
         "@types/jest": "29.5.9",
         "@types/node": "20.9.3",
         "@workleap/eslint-plugin": "3.0.0",
-        "@workleap/stylelint-configs": "2.0.0",
+        "@workleap/stylelint-configs": "2.1.0",
         "@workleap/typescript-configs": "3.0.2",
         "eslint-plugin-storybook": "0.6.15",
         "prettier": "3.1.0",
         "prop-types": "15.8.1",
         "react-dom": "18.2.0",
         "react": "18.2.0",
-        "stylelint": "15.11.0",
+        "stylelint": "16.24.0",
         "ts-node": "10.9.1"
     },
     "bugs": {
