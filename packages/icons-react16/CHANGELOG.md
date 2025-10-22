@@ -1,5 +1,11 @@
 # @hopper-ui/icons-react16
 
+## 2.5.1
+
+### Patch Changes
+
+- fa10acc: Update to Npm OIDC release
+
 ## 2.5.0
 
 ### Minor Changes
