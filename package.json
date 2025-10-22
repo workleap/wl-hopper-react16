@@ -44,5 +44,6 @@
         "url": "https://github.com/workleap/wl-hopper/issues"
     },
     "readme": "https://github.com/workleap/wl-hopper#readme",
-    "homepage": "https://github.com/workleap/wl-hopper#readme"
+    "homepage": "https://github.com/workleap/wl-hopper#readme",
+    "packageManager": "pnpm@10.19.0"
 }
