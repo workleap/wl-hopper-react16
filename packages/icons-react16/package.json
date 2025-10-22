@@ -58,6 +58,7 @@
         "postcss-modules": "6.0.0",
         "react": "^16",
         "react-dom": "^16",
+        "svgo": "3.3.2",
         "ts-jest": "29.1.2",
         "ts-node": "10.9.2",
         "tsup": "8.0.1",
